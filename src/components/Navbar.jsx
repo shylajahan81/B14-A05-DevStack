@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Navbar = () => {
+const Navbar  = () => {
   return (
     <nav className="w-full bg-white border-b border-slate-200 py-4 px-6 md:px-16 flex justify-between items-center sticky top-0 z-50 shadow-sm">
       
