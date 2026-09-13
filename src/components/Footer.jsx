@@ -5,7 +5,7 @@ function Footer() {
     <footer className="bg-white border-t border-slate-200 pt-16 pb-12 px-6 md:px-16">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-5 gap-10">
         
-        {/* Brand Info (Spans 2 columns) */}
+        {/* Brand Info */}
         <div className="md:col-span-2 space-y-4">
           <div className="flex items-center space-x-2">
             <span className="bg-gradient-to-r from-orange-500 via-pink-500 to-purple-600 text-white font-bold px-2.5 py-1 rounded-lg text-sm">
